@@ -33,7 +33,7 @@ h2 {
     color: #7b8f8e;
     width: 50%;
   }
-}
+
 
 h1 {
   color: #02cbd2;
@@ -43,13 +43,13 @@ h1 {
 h2 {
   color: #fcc02a;
   font-size: 1.5em;
- }
 }
+
 
 
 /*---- NOW DESKTOP----*/
 
-@media (min-widt: 1200px) {
+@media (min-width: 1200px) {
   section, p {
     color: #c19e74;
     width: 50%;
